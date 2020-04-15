@@ -1,0 +1,74 @@
+body {
+    font-family: monospace, pacifico;
+    background-color: #D48383;
+}
+
+#vimhome {
+    color: #FE6060;
+    font-weight: bold;
+}
+
+.headline {
+    color: #FE6060;
+    text-align: center;
+    font-size: 50px;
+}
+
+#home {
+    color: rgb(32,206,136);
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: rgb(47,46,46);
+}
+
+.faith {
+    font-family: monospace;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 10;
+
+}
+
+hr { 
+    position: relative; 
+    top: 20px; 
+    border: none; 
+    height: 8px;
+    width: 175px;
+    background: white; 
+    margin-bottom: 50px; 
+} 
+
+.nextLevel {
+    background-color: #D48383;
+    text-align: center;
+}
+#subscribe {
+    width: 300px;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    
+}
+#email1 {
+    width: 300px;
+    text-align: center;
+}
+
+.newFollower {
+    font-size: 26px;
+    font-family: monospace;
+    color: black;
+    text-align: center;
+}
+
+.footer {
+    color: #555142;
+    text-align: center;
+    font-size: 25px;;
+}
